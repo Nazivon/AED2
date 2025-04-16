@@ -1,0 +1,1 @@
+Exercícios-programa da disciplina ACH2024 - Algoritmos e Estruturas de Dados II (AED2), do 3º semestre do curso Bacharelado em Sistemas de Informação da EACH-USP (Escola de Artes, Ciências e Humanidades - Universidade de São Paulo), realizado em 2024.
